@@ -1,0 +1,28 @@
+{
+  "name": "backend_tutorial_in_js",
+  "version": "1.0.0",
+  "description": "basic backend code to deploy",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "homepage": "https://github.com/Khushaal22/Backend_Tutorial_In_JS#readme",
+  "bugs": {
+    "url": "https://github.com/Khushaal22/Backend_Tutorial_In_JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khushaal22/Backend_Tutorial_In_JS.git"
+  },
+  "license": "ISC",
+  "author": "khushaal singh tanwar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
